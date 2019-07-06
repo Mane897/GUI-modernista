@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\Gui_modernista\Gui_modernista\bin\Debug\Gui_modernista.exe.config
+C:\Users\Dell\source\repos\Gui_modernista\Gui_modernista\bin\Debug\Gui_modernista.exe
+C:\Users\Dell\source\repos\Gui_modernista\Gui_modernista\bin\Debug\Gui_modernista.pdb
+C:\Users\Dell\source\repos\Gui_modernista\Gui_modernista\obj\Debug\Gui_modernista.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Gui_modernista\Gui_modernista\obj\Debug\Gui_modernista.Form1.resources
+C:\Users\Dell\source\repos\Gui_modernista\Gui_modernista\obj\Debug\Gui_modernista.Properties.Resources.resources
+C:\Users\Dell\source\repos\Gui_modernista\Gui_modernista\obj\Debug\Gui_modernista.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Gui_modernista\Gui_modernista\obj\Debug\Gui_modernista.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Gui_modernista\Gui_modernista\obj\Debug\Gui_modernista.exe
+C:\Users\Dell\source\repos\Gui_modernista\Gui_modernista\obj\Debug\Gui_modernista.pdb
