@@ -8,3 +8,5 @@ C:\Users\Dell\source\repos\Gui_modernista\Gui_modernista\obj\Debug\Gui_modernist
 C:\Users\Dell\source\repos\Gui_modernista\Gui_modernista\obj\Debug\Gui_modernista.csproj.CoreCompileInputs.cache
 C:\Users\Dell\source\repos\Gui_modernista\Gui_modernista\obj\Debug\Gui_modernista.exe
 C:\Users\Dell\source\repos\Gui_modernista\Gui_modernista\obj\Debug\Gui_modernista.pdb
+C:\Users\Dell\source\repos\Gui_modernista\Gui_modernista\obj\Debug\Gui_modernista.inicio.resources
+C:\Users\Dell\source\repos\Gui_modernista\Gui_modernista\obj\Debug\Gui_modernista.productos.resources
